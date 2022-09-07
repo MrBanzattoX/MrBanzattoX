@@ -2,7 +2,7 @@
 
 # Olá, bom ter você por aqui!
   <div id="badges">
-  <a href = "https://github.com/MrBanzattoX">
+  <a href = "https://www.linkedin.com/in/marcus-vinicius-matheus-banzatto-743bb924/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
