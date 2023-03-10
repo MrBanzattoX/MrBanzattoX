@@ -11,8 +11,8 @@
 
 Sou estudante de engenharia, técnico de manutenção e aprendendo sobre programação.
 
-- ❤ Técnico em Mecânica
-- 💙 Estudante de Engenharia da Computação
+- ❤ Bacharel em Engenharia da Computação
+- 💙 Técnico de manutenção
 - 👩‍💻 Aprendendo algo sobre back-end
 
 <div>
