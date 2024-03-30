@@ -11,7 +11,7 @@
 
 Sou estudante de engenharia, técnico de manutenção e aprendendo sobre programação.
 
-- ❤ Bacharel em Engenharia da Computação
+- ❤ Bacharel em Engenharia da Computação e especialista em Automação e Controle Industrial
 - 💙 Técnico de manutenção
 - 👩‍💻 Aprendendo algo sobre back-end
 
