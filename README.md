@@ -6,14 +6,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-</div>
+ </div>
 
 Sou estudante de engenharia, técnico de manutenção e aprendendo sobre programação.
 
-- ❤ Bacharel em Engenharia da Computação e especialista em Automação e Controle Industrial
-- 💙 Técnico de manutenção
-- 👩‍💻 Aprendendo algo sobre back-end
+- ❤ Engenheiro de Computação e especialista em Automação e Controle Industrial
+- 💙 Técnico em Mecânica
+- 👩‍💻 Aprendendo algo sobre full stack
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -22,4 +21,5 @@ Sou estudante de engenharia, técnico de manutenção e aprendendo sobre program
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img alt="[Icon]" height="[Height]" width="[Width]" src="https://github.com/gui-bus/TechIcons/blob/main/[Android Studio]/[Icon].svg">
 </div>
