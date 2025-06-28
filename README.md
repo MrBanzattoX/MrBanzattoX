@@ -6,8 +6,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </div>
 
-Sou formado em engenharia, coordenador de manutenção e aprendendo sobre programação.
-Tenho experiência com automação industrial e IoT.
+Sou formado em engenharia da computação, pós graduado em tecnologia da informação e Cyber segurança. 
+Trabalho como coordenador de manutenção e tentando aprender mais sobre programação.
+Também atuo nas áreas de automação industrial e IoT.
 
 
 <div>
